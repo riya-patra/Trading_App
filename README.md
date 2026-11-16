@@ -39,7 +39,7 @@ Python · Streamlit · pandas · NumPy · yfinance · Plotly · pandas_ta · sci
 
 | Stock Analysis | CAPM | Stock Prediction | Trading Guide App   |
 |---|---|---|---|
-| ![Stock Analysis](screenshots/Stock_Analysis.png) | ![CAPM](screenshots/CAPM.png) |![Stock Prediction](screenshots/Stock_Prediction.png) | ![Trading Guide App](screenshots/Trading_Guide_App.png)
+| ![Stock Analysis](Stock_Analysis.png) | ![CAPM](CAPM.png) |![Stock Prediction](Stock_Prediction.png) | ![Trading Guide App](Trading_Guide_App.png)
 
 ## 🚀 How to Run
 
