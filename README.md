@@ -45,7 +45,7 @@ Python · Streamlit · pandas · NumPy · yfinance · Plotly · pandas_ta · sci
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/<your-username>/Trading_App.git
+   git clone https://github.com/riya-patra/Trading_App.git
    cd Trading_App
    ```
 
