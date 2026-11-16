@@ -86,6 +86,8 @@ Trading_App/
 ## 👩‍💻 Author
 
 **Riya Patra**
-B.Tech CSE | Data Analyst 
+B.Tech CSE | Data Analyst
+
 🔗 LinkedIn: <https://www.linkedin.com/in/riya-patra-95310b332>
+
 📧 Email: <riyapatra368@gmail.com>
